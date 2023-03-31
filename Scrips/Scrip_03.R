@@ -26,3 +26,5 @@ boxplot(conjunto$Altura ~ conjunto$Especie,
 cor.test(conjunto$Diametro, conjunto$Altura)
 
 plot(conjunto$Diametro, conjunto$Altura, pch = 16)
+
+#
