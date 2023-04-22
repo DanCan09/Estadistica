@@ -53,9 +53,9 @@
     - Forms 💯
     - EXAMEN...
     
-    
+# **Contribuciones**
     
     ![image](https://user-images.githubusercontent.com/123662484/233767022-47ed676b-37be-477a-b1e6-ff6ce2ec3724.png)
 
-
+https://github.com/DanCan09/Estadistica/blob/main/Daniela_c.png
     
